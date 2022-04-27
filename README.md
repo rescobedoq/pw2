@@ -20,34 +20,34 @@ El presente repositorio fue creado por el profesor Richart Escobedo Quispe (resc
 - [Referencias](#referencias)
 
 ## Competencias
--C. Diseña responsablemente sistemas, componentes o procesos para satisfacer necesidades dentro de restricciones realistas: económicas, medio ambientales, sociales, políticas, éticas, de salud, de seguridad, manufacturación y sostenibilidad.
+- C. Diseña responsablemente sistemas, componentes o procesos para satisfacer necesidades dentro de restricciones realistas: económicas, medio ambientales, sociales, políticas, éticas, de salud, de seguridad, manufacturación y sostenibilidad.
 - M. Construye responsablemente soluciones siguiendo un proceso adecuado llevando a cabo las pruebas ajustada a los recursos disponibles del cliente.
 - P. Aplica de forma flexible técnicas, métodos, principios, normas, estándares y herramientas de ingeniería necesarias para la construcción de software e implementación de sistemas de información.
 
 ## Sumilla
-- Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué hacen los clientes y servidores WEB, ¿cómo se comunican? Vista rápida al HTML. Detalle del protocolo HTTP. Detalle de las comunicaciones GET, POST, etc. Detalle de los URL. Servidores Web, páginas web estáticas y CGIs. CGIs en lenguajes orientados a objetos, incrustando código de lenguajes de programación en HTML; CSS. Arquitectura de las Aplicaciones WEB: ¿Qué es un contenedor y que proporciona? CGIs orientados a objetos en detalle, un ejemplo de aplicación usando tecnologías orientadas a objetos y que introduzca patrón MVC y variantes. Creando los ambientes de desarrollo con herramientas automáticas que permitan automatizar las tareas de instalación, despliegue, configuración de software, pruebas, etc. Sistemas de control de versiones. Conectando aplicaciones WEB con Bases de datos bajo un patrón modelo vista controlador. Formularios y verificación de campos; inyección de código; cookies, sesiones; seguridad WEB. Programando el cliente: Bibliotecas de programación para animaciones del lado del cliente y frameworks para webs dinámicas. 
+Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué hacen los clientes y servidores WEB, ¿cómo se comunican? Vista rápida al HTML. Detalle del protocolo HTTP. Detalle de las comunicaciones GET, POST, etc. Detalle de los URL. Servidores Web, páginas web estáticas y CGIs. CGIs en lenguajes orientados a objetos, incrustando código de lenguajes de programación en HTML; CSS. Arquitectura de las Aplicaciones WEB: ¿Qué es un contenedor y que proporciona? CGIs orientados a objetos en detalle, un ejemplo de aplicación usando tecnologías orientadas a objetos y que introduzca patrón MVC y variantes. Creando los ambientes de desarrollo con herramientas automáticas que permitan automatizar las tareas de instalación, despliegue, configuración de software, pruebas, etc. Sistemas de control de versiones. Conectando aplicaciones WEB con Bases de datos bajo un patrón modelo vista controlador. Formularios y verificación de campos; inyección de código; cookies, sesiones; seguridad WEB. Programando el cliente: Bibliotecas de programación para animaciones del lado del cliente y frameworks para webs dinámicas. 
 
 ## Temas
 
 - ### INTRODUCCIÓN
--- [HTTP][Generalidades del protocolo HTTP]
--- [C/S][Visión General Cliente-Servidor]
--- [URL][¿Qué es una URL?]
--- [METODOS][Métodos de petición HTTP]
--- [HTML][Conceptos básicos de HTML]
--- [CSS][CSS básico]
--- [JS][Fundamentos de JavaScript]
--- [ESTANDARES][La web y los estándares web]
--- [BACKEND][Programación lado servidor]
--- [GITHUB][¿Cómo se utiliza Github pages?]
--- [AJAX][AJAX]
--- [SEGURIDAD][Seguridad de Sitios Web]
+    - [HTTP][Generalidades del protocolo HTTP]
+    - [C/S][Visión General Cliente-Servidor]
+    - [URL][¿Qué es una URL?]
+    - [METODOS][Métodos de petición HTTP]
+    - [HTML][Conceptos básicos de HTML]
+    - [CSS][CSS básico]
+    - [JS][Fundamentos de JavaScript]
+    - [ESTANDARES][La web y los estándares web]
+    - [BACKEND][Programación lado servidor]
+    - [GITHUB][¿Cómo se utiliza Github pages?]
+    - [AJAX][AJAX]
+    - [SEGURIDAD][Seguridad de Sitios Web]
     
 - ## Laboratorios
--- Laboratorio 01: Git y GitHub.
+    - Laboratorio 01: Git y GitHub.
 
 - ## Otras Referencias
--- Libro. 
+    - Libro. 
 
 [HTTP]: https://developer.mozilla.org/es/docs/Web/HTTP/Overview
 [C/S]: https://developer.mozilla.org/es/docs/Learn/Server-side/First_steps/Client-Server_overview
