@@ -17,7 +17,7 @@ El presente repositorio fue creado por el profesor Richart Escobedo Quispe (resc
 - [Temas](#temas)
     - [Introducción](#introduccion)
 - [Laboratorios](#laboratorios)
-- [Referencias](#referencias)
+- [Referencias](#otras-referencias)
 
 ## Competencias
 - C. Diseña responsablemente sistemas, componentes o procesos para satisfacer necesidades dentro de restricciones realistas: económicas, medio ambientales, sociales, políticas, éticas, de salud, de seguridad, manufacturación y sostenibilidad.
