@@ -42,12 +42,14 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
     - [¿Cómo se utiliza Github pages?][GITHUB]
     - [AJAX][AJAX]
     - [Seguridad de Sitios Web][SEGURIDAD]
+
+- ## PYTHON
+
+- ## Angujar JS
+
     
 - ## Laboratorios
     - Laboratorio 01: Git y GitHub.
-
-- ## Otras Referencias
-    - Libro. 
 
 [HTTP]: https://developer.mozilla.org/es/docs/Web/HTTP/Overview
 [C/S]: https://developer.mozilla.org/es/docs/Learn/Server-side/First_steps/Client-Server_overview
