@@ -1,6 +1,6 @@
-<div align="center">
+
 # Programación Web 2
-</div>
+
 
 Programación Web 2 (PW2) es un curso de la Escuela Profesional de Ingeniería de Sistemas ([EPIS]) de la Universidad Nacional de San Agustín de Arequipa ([UNSA]).
 
