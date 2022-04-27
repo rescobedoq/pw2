@@ -15,7 +15,7 @@ El presente repositorio fue creado por el profesor Richart Escobedo Quispe (resc
 - [Competencias](#competencias)
 - [Sumilla](#sumilla)
 - [Temas](#temas)
--- [Introducción](#introduccion)
+    - [Introducción](#introduccion)
 - [Laboratorios](#laboratorios)
 - [Referencias](#referencias)
 
@@ -30,18 +30,18 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 ## Temas
 
 - ### INTRODUCCIÓN
-    - [HTTP][Generalidades del protocolo HTTP]
-    - [C/S][Visión General Cliente-Servidor]
-    - [URL][¿Qué es una URL?]
-    - [METODOS][Métodos de petición HTTP]
-    - [HTML][Conceptos básicos de HTML]
-    - [CSS][CSS básico]
-    - [JS][Fundamentos de JavaScript]
-    - [ESTANDARES][La web y los estándares web]
-    - [BACKEND][Programación lado servidor]
-    - [GITHUB][¿Cómo se utiliza Github pages?]
+    - [Generalidades del protocolo HTTP][HTTP]
+    - [Visión General Cliente-Servidor][C/S]
+    - [¿Qué es una URL?][URL]
+    - [Métodos de petición HTTP][METODOS]
+    - [Conceptos básicos de HTML][HTML]
+    - [CSS básico][CSS]
+    - [Fundamentos de JavaScript][JS]
+    - [La web y los estándares web][ESTANDARES]
+    - [Programación lado servidor][BACKEND]
+    - [¿Cómo se utiliza Github pages?][GITHUB]
     - [AJAX][AJAX]
-    - [SEGURIDAD][Seguridad de Sitios Web]
+    - [Seguridad de Sitios Web][SEGURIDAD]
     
 - ## Laboratorios
     - Laboratorio 01: Git y GitHub.
