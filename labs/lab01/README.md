@@ -1,12 +1,12 @@
 <table style="text-align:center">
 <tr>
-<td>![EPIS](https://github.com/rescobedoq/pw2/blob/main/epis.png)</td>
+<td>![EPIS](https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true)</td>
 <td style="font-weight: bold;">
 UNIVERSIDAD NACIONAL DE SAN AGUSTIN<br />
 FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y SERVICIOS<br />
 ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
 </td>
-<td>![ABET](https://github.com/rescobedoq/pw2/blob/main/abet.png)</td>
+<td>![ABET](https://github.com/rescobedoq/pw2/blob/main/abet.png?raw=true)</td>
 <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
 <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLD-001</td><td><span style="font-weight:bold;">Página</span>: 1</td>
 </table>
