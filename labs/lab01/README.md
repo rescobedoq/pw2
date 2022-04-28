@@ -18,7 +18,7 @@
 </table>
 </div>
 
-<div align="center">
+
 <span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
 <span>(formato docente)</span>
 </div>
@@ -52,7 +52,7 @@
 </<tr>
 </tdbody>
 </table>
-</div>
+
 
 # OBJETIVOS TEMAS Y COMPETENCIAS
 
