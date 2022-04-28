@@ -80,5 +80,24 @@ usuarios
     ```
 
 - gir config
-    - Configura 
+    - Establece variables de configuración. Por ejemplo para los commits se necesita los datos del desarrollador. Se puede especificar el editor y hasta el tiempo que deseas almacenar tus credenciales en la cache y otras cosas más
+    ```sh
+    git config --global user.name "Richart Smith Escobedo Quispe"
+    git config --global user.email rescobedoq@unsa.edu.pe
+    git config --list
+    git config user.name
+    git config --global core.editor "code --wait"
+    git config --global credential.helper 'cache --timeout=3600'
+    ```
 
+- git status
+    - Permite verificar el estado de los archivos
+    ```sh
+    git status
+    ```
+- git add
+    - Añade archivos al staging area. El punto "." agrega todos
+    ```sh
+    git add HolaMundo.java
+    git .
+    ```
