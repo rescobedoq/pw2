@@ -18,12 +18,12 @@
 </table>
 </div>
 
-
+<div align="center">
 <span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
 <span>(formato docente)</span>
 </div>
 
-<div align="center">
+
 <table>
 <theader>
 <tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
