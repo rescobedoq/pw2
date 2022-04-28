@@ -165,8 +165,11 @@ Primer repositorio en GitHub
 ## EJERCICIOS/PROBLEMAS PROPUESTOS
 - Cree una cuenta de usuario en github
 - Configure su cuenta de estudiante (https://education.github.com/pack).
+- Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un
+entero. (Forme grupos de 3 a 5 personas)
 
 ## CUESTIONARIO
+- ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
 - https://guides.github.com/
