@@ -1,6 +1,6 @@
 <table style="text-align:center">
 <tr>
-<td><img src="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true" alt="EPIS"/></td>
+<td><img src="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true" alt="EPIS" style="weight:50%; height:50%;"/></td>
 <td style="font-weight: bold;">
 UNIVERSIDAD NACIONAL DE SAN AGUSTIN<br />
 FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y SERVICIOS<br />
