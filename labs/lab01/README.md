@@ -79,7 +79,7 @@ usuarios
     git init
     ```
 
-- gir config
+- git config
     - Establece variables de configuración. Por ejemplo para los commits se necesita los datos del desarrollador. Se puede especificar el editor y hasta el tiempo que deseas almacenar tus credenciales en la cache y otras cosas más
     ```sh
     git config --global user.name "Richart Smith Escobedo Quispe"
@@ -100,4 +100,44 @@ usuarios
     ```sh
     git add HolaMundo.java
     git .
+    ```
+
+- git commit
+    - Sube los archivos al área de staging, en la máquina local. La opción -m permite escribir el mensaje en línea
+    ```sh
+    git commit -m "Probando el Hola Mundo"    
+    ```
+
+- git show
+    - Muestra detalles del commit actual
+    ```sh
+    git show
+    ```
+
+-   git log
+    - Permite ver un resumen de los commit realizados
+    ```sh
+    git log
+    git log --pretty=oneline
+    git log --graph --pretty=oneline --abbrev-commit --all
+    git log --pretty=format:"%h - %an, %ar : %s"
+    git log -p -2
+    ```
+
+- git diff
+    - Permite comparar los cambios en los archivos
+    ```sh
+    git diff
+    ```
+
+- git clone
+    - Clona un repositorio remoto desde CERO
+    ```sh
+    git clone https://github.com/rescobedoq/pweb2.git
+    ```
+
+- git checkout
+    - Permite regresar a versiones anteriores o saltar a otra rama
+    ```sh
+    git checkout master
     ```
