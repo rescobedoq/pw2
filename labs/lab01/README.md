@@ -75,7 +75,7 @@ usuarios
 ## MARCO CONCEPTUAL
 - git init
     - Crea un nuevo proyecto local, se crean archivos en el directorio oculto .git
-    - ```sh
+    ```sh
     git init
     ```
 
