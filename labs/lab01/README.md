@@ -73,5 +73,12 @@ usuarios
 # CONTENIDO DE LA GUÍA
 
 ## MARCO CONCEPTUAL
+- git init
+    - Crea un nuevo proyecto local, se crean archivos en el directorio oculto .git
+    - ```sh
+    git init
+    ```
 
+- gir config
+    - Configura 
 
