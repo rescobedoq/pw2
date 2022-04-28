@@ -47,7 +47,7 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 
     
 - ## Laboratorios
-    - [Laboratorio 01: Git - GitHub.](labs/README.md)
+    - [Laboratorio 01: Git - GitHub.](https://github.com/rescobedoq/pw2/tree/main/labs/lab01)
 
 [HTTP]: https://developer.mozilla.org/es/docs/Web/HTTP/Overview
 [C/S]: https://developer.mozilla.org/es/docs/Learn/Server-side/First_steps/Client-Server_overview
