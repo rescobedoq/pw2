@@ -108,6 +108,9 @@ usuarios
     git commit -m "Probando el Hola Mundo"    
     ```
 
+- git push
+    - Permite subir archivos al repositorio remoto
+
 - git show
     - Muestra detalles del commit actual
     ```sh
@@ -141,3 +144,34 @@ usuarios
     ```sh
     git checkout master
     ```
+
+- git pull
+    - Permite descargar los cambios del repositorio remoto al directorio local
+
+- git branch
+    - Permite ver las ramas existentes o crea una rama alternativa al proyecto principal git branch -a
+
+## EJERCICIO/PROBLEMA RESUELTO POR EL DOCENTE
+Primer repositorio en GitHub
+- Creamos un nuevo proyecto en GitHub
+- Crearemos un repositorio local usando git init
+- Crearemos un archivo Readme.md con contenido Markup
+- Agregaremos este archivo al staging area usando git add .
+- Hacemos un primer commit en nuestro repositorio local git commit -m “mi primer proyecto en github”
+- Asociamos el repositorio local con el repositorio remoto git remote add origin https://github.com/rescobedoq/pweb2
+- Actualizamos el repositorio remoto con git push origin master
+- Ahora podemos verificar github que nuestro repositorio se actualizó con el archivo local.
+
+## EJERCICIOS/PROBLEMAS PROPUESTOS
+- Cree una cuenta de usuario en github
+- Configure su cuenta de estudiante (https://education.github.com/pack).
+
+## CUESTIONARIO
+
+## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
+- https://guides.github.com/
+- https://git-scm.com/book/es/v2
+
+
+
+
