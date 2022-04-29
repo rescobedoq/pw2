@@ -202,12 +202,52 @@ Primer repositorio en GitHub
 
 - Ahora podemos verificar en GitHub que nuestro repositorio se actualizó con el proyecto local
     - ![Readme.md](Readme.md.png)
-    
 
+- Cree una clase Java HolaMundo.java que imprima un saludo, compílelo, ignore archivos binarios, agregue archivo al stating area, haga commit y súbalo al repositorio GitHub.
+    ```sh
+    vim HolaMundo.java
+    ```
+    <pre>
+    public class HolaMundo
+    {
+        public static void main(String args[]) {
+        
+            /** */
+            System.out.println ("¡Hola mundo!");
+
+        }
+    }
+    </pre>
+    ```sh    
+    java -version
+    ```
+    <pre>
+    openjdk version "11.0.14" 2022-01-18
+    </pre>
+    ```sh
+    javac HolaMundo.java
+    java HolaMundo
+    ```
+    <pre>
+    ¡Hola mundo!
+    </pre>
+    ```sh
+    vim .gitignore
+    ```
+    <pre>
+    *.class
+    .gitignore
+    </pre>
+    ```sh
+    git add HolaMundo.java
+    git commit -m "Hola Mundo"
+    git push -u origin main
+    ```
+    
 ## EJERCICIOS/PROBLEMAS PROPUESTOS
 - Cree una cuenta de usuario en github.
 - Configure su cuenta de estudiante (https://education.github.com/pack).
-- Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase.
+- Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase. Haga 3 commits y muestre los 3 últimos.
 - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main.
 
 ## CUESTIONARIO
