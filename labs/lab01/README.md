@@ -154,6 +154,7 @@ usuarios
 ## EJERCICIO/PROBLEMA RESUELTO POR EL DOCENTE
 Primer repositorio en GitHub
 - Creamos un nuevo proyecto en GitHub
+    - ![Nuevo Proyecto GitHub](github_proyecto_programacion.png)
 - Crearemos un repositorio local usando git init
 - Crearemos un archivo Readme.md con contenido Markup
 - Agregaremos este archivo al staging area usando git add .
@@ -163,10 +164,10 @@ Primer repositorio en GitHub
 - Ahora podemos verificar github que nuestro repositorio se actualizó con el archivo local.
 
 ## EJERCICIOS/PROBLEMAS PROPUESTOS
-- Cree una cuenta de usuario en github
+- Cree una cuenta de usuario en github.
 - Configure su cuenta de estudiante (https://education.github.com/pack).
-- Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un
-entero. (Forme grupos de 3 a 5 personas)
+- Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto por el profesor.
+- Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main.
 
 ## CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
