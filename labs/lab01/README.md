@@ -169,7 +169,7 @@ Primer repositorio en GitHub
     ```
 
 - Agregaremos este archivo al staging area usando git add .
-     ```sh
+    ```sh
     git status
     ```
     <pre>
@@ -182,16 +182,32 @@ Primer repositorio en GitHub
 	README.md
     no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
     </pre>
+    ```sh
+    git add README.md
+    ```
 
-- Hacemos un primer commit en nuestro repositorio local git commit -m “mi primer proyecto en github”
-- Asociamos el repositorio local con el repositorio remoto git remote add origin https://github.com/rescobedoq/pweb2
-- Actualizamos el repositorio remoto con git push origin master
-- Ahora podemos verificar github que nuestro repositorio se actualizó con el archivo local.
+- Hacemos un primer commit en nuestro repositorio local 
+    ```sh
+    git commit -m "Mi primer proyecto en github"
+    ```
+- Asociamos el repositorio local con el repositorio remoto 
+    ```sh
+    git remote add origin https://github.com/rescobedoq/proyecto
+    ```
+
+- Actualizamos el repositorio remoto
+    ```sh
+    git push -u origin main
+    ```
+
+- Ahora podemos verificar en GitHub que nuestro repositorio se actualizó con el proyecto local
+    - ![Readme.md](Readme.md.png)
+    
 
 ## EJERCICIOS/PROBLEMAS PROPUESTOS
 - Cree una cuenta de usuario en github.
 - Configure su cuenta de estudiante (https://education.github.com/pack).
-- Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto por el profesor.
+- Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase.
 - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main.
 
 ## CUESTIONARIO
