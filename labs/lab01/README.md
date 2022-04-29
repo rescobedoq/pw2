@@ -155,9 +155,34 @@ usuarios
 Primer repositorio en GitHub
 - Creamos un nuevo proyecto en GitHub
     - ![Nuevo Proyecto GitHub](github_proyecto_programacion.png)
+
 - Crearemos un repositorio local usando git init
+    ```sh
+    pwd
+    /home/richart/unsa/proyecto
+    git init
+    ```
+
 - Crearemos un archivo Readme.md con contenido Markup
+    ```sh
+    echo "# Mi proyecto Git" > README.md
+    ```
+
 - Agregaremos este archivo al staging area usando git add .
+     ```sh
+    git status
+    ```
+    <pre>
+    En la rama main
+
+    No hay commits todavía
+
+    Archivos sin seguimiento:
+    (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+	README.md
+    no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
+    </pre>
+
 - Hacemos un primer commit en nuestro repositorio local git commit -m “mi primer proyecto en github”
 - Asociamos el repositorio local con el repositorio remoto git remote add origin https://github.com/rescobedoq/pweb2
 - Actualizamos el repositorio remoto con git push origin master
