@@ -40,7 +40,7 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 ## Temas
 
 <details>
-<summary>INTRODUCCIÓN</summary>
+<summary>Introducción</summary>
 
 - [Generalidades del protocolo HTTP][HTTP]
 - [Visión General Cliente-Servidor][C/S]
@@ -56,9 +56,17 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 - [Seguridad de Sitios Web][SEGURIDAD]
 </details>
 
-### PYTHON
+<details>
+<summary>Python</summary>
+</details>
 
-### Angujar JS
+<details>
+<summary>Django</summary>
+</details>
+
+<details>
+<summary>Angular JS</summary>
+</details>
 
 #
     
