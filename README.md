@@ -27,7 +27,7 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 
 ## Temas
 
-- ### INTRODUCCIÓN
+### INTRODUCCIÓN
     - [Generalidades del protocolo HTTP][HTTP]
     - [Visión General Cliente-Servidor][C/S]
     - [¿Qué es una URL?][URL]
@@ -41,13 +41,24 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
     - [AJAX][AJAX]
     - [Seguridad de Sitios Web][SEGURIDAD]
 
-- ## PYTHON
+### PYTHON
 
-- ## Angujar JS
+### Angujar JS
 
     
-- ## Laboratorios
+## Laboratorios
     - [Laboratorio 01: Git - GitHub.](https://github.com/rescobedoq/pw2/tree/main/labs/lab01)
+
+## Referencias
+	- https://developer.mozilla.org/es/docs/Web
+	- https://developer.mozilla.org/es/docs/Web/JavaScrip
+	- https://www.w3schools.com/js/
+	- https://www.w3schools.com/nodejs/
+	- https://www.w3schools.com/python/
+	- https://developer.mozilla.org/es/docs/Learn/Server-side/Django
+	- https://docs.djangoproject.com/en/4.0/intro/tutorial01/
+	- https://tutorial.djangogirls.org/es/
+
 
 [HTTP]: https://developer.mozilla.org/es/docs/Web/HTTP/Overview
 [C/S]: https://developer.mozilla.org/es/docs/Learn/Server-side/First_steps/Client-Server_overview
