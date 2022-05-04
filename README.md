@@ -28,18 +28,18 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 ## Temas
 
 ### INTRODUCCIÓN
-    - [Generalidades del protocolo HTTP][HTTP]
-    - [Visión General Cliente-Servidor][C/S]
-    - [¿Qué es una URL?][URL]
-    - [Métodos de petición HTTP][METODOS]
-    - [Conceptos básicos de HTML][HTML]
-    - [CSS básico][CSS]
-    - [Fundamentos de JavaScript][JS]
-    - [La web y los estándares web][ESTANDARES]
-    - [Programación lado servidor][BACKEND]
-    - [¿Cómo se utiliza Github pages?][GITHUB]
-    - [AJAX][AJAX]
-    - [Seguridad de Sitios Web][SEGURIDAD]
+- [Generalidades del protocolo HTTP][HTTP]
+- [Visión General Cliente-Servidor][C/S]
+- [¿Qué es una URL?][URL]
+- [Métodos de petición HTTP][METODOS]
+- [Conceptos básicos de HTML][HTML]
+- [CSS básico][CSS]
+- [Fundamentos de JavaScript][JS]
+- [La web y los estándares web][ESTANDARES]
+- [Programación lado servidor][BACKEND]
+- [¿Cómo se utiliza Github pages?][GITHUB]
+- [AJAX][AJAX]
+- [Seguridad de Sitios Web][SEGURIDAD]
 
 ### PYTHON
 
@@ -47,17 +47,17 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 
     
 ## Laboratorios
-    - [Laboratorio 01: Git - GitHub.](https://github.com/rescobedoq/pw2/tree/main/labs/lab01)
+- [Laboratorio 01: Git - GitHub.](https://github.com/rescobedoq/pw2/tree/main/labs/lab01)
 
 ## Referencias
-	- https://developer.mozilla.org/es/docs/Web
-	- https://developer.mozilla.org/es/docs/Web/JavaScrip
-	- https://www.w3schools.com/js/
-	- https://www.w3schools.com/nodejs/
-	- https://www.w3schools.com/python/
-	- https://developer.mozilla.org/es/docs/Learn/Server-side/Django
-	- https://docs.djangoproject.com/en/4.0/intro/tutorial01/
-	- https://tutorial.djangogirls.org/es/
+- https://developer.mozilla.org/es/docs/Web
+- https://developer.mozilla.org/es/docs/Web/JavaScrip
+- https://www.w3schools.com/js/
+- https://www.w3schools.com/nodejs/
+- https://www.w3schools.com/python/
+- https://developer.mozilla.org/es/docs/Learn/Server-side/Django
+- https://docs.djangoproject.com/en/4.0/intro/tutorial01/
+- https://tutorial.djangogirls.org/es/
 
 
 [HTTP]: https://developer.mozilla.org/es/docs/Web/HTTP/Overview
