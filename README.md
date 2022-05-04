@@ -15,6 +15,8 @@ El presente repositorio fue creado por el profesor Richart Smith Escobedo Quispe
 - [Laboratorios](#laboratorios)
 - [Referencias](#referencias)
 
+#
+
 <details>
 <summary>Competencias</summary>
 
@@ -24,12 +26,16 @@ El presente repositorio fue creado por el profesor Richart Smith Escobedo Quispe
 
 </details>
 
+#
+
 <details>
 <summary>Sumilla</summary>
 
 Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué hacen los clientes y servidores WEB, ¿cómo se comunican? Vista rápida al HTML. Detalle del protocolo HTTP. Detalle de las comunicaciones GET, POST, etc. Detalle de los URL. Servidores Web, páginas web estáticas y CGIs. CGIs en lenguajes orientados a objetos, incrustando código de lenguajes de programación en HTML; CSS. Arquitectura de las Aplicaciones WEB: ¿Qué es un contenedor y que proporciona? CGIs orientados a objetos en detalle, un ejemplo de aplicación usando tecnologías orientadas a objetos y que introduzca patrón MVC y variantes. Creando los ambientes de desarrollo con herramientas automáticas que permitan automatizar las tareas de instalación, despliegue, configuración de software, pruebas, etc. Sistemas de control de versiones. Conectando aplicaciones WEB con Bases de datos bajo un patrón modelo vista controlador. Formularios y verificación de campos; inyección de código; cookies, sesiones; seguridad WEB. Programando el cliente: Bibliotecas de programación para animaciones del lado del cliente y frameworks para webs dinámicas.
 
 </details>
+
+#
 
 ## Temas
 
@@ -54,9 +60,12 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 
 ### Angujar JS
 
+#
     
 ## Laboratorios
 - [Laboratorio 01: Git - GitHub.](https://github.com/rescobedoq/pw2/tree/main/labs/lab01)
+
+#
 
 ## Referencias
 - https://developer.mozilla.org/es/docs/Web
