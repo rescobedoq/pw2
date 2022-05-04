@@ -15,7 +15,7 @@ El presente repositorio fue creado por el profesor Richart Smith Escobedo Quispe
 - [Temas](#temas)
     - [Introducción](#introduccion)
 - [Laboratorios](#laboratorios)
-- [Referencias](#otras-referencias)
+- [Referencias](#referencias)
 
 ## Competencias
 - C. Diseña responsablemente sistemas, componentes o procesos web para satisfacer necesidades dentro de restricciones realistas: económicas, medio ambientales, sociales, políticas, éticas, de salud, de seguridad, manufacturación y/o sostenibilidad.
