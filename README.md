@@ -10,24 +10,32 @@ El presente repositorio fue creado por el profesor Richart Smith Escobedo Quispe
 |-------|-----------|-------------------------|------|------|--------|-----------|----------|
 | F     | 1702122   | Programación Web 2      | SI   | 4    | 1701212| 2.0       | 4.0      |
 
-- [Competencias](#competencias)
-- [Sumilla](#sumilla)
+
 - [Temas](#temas)
-    - [Introducción](#introduccion)
 - [Laboratorios](#laboratorios)
 - [Referencias](#referencias)
 
-## Competencias
+<details>
+<summary>Competencias</summary>
+
 - C. Diseña responsablemente sistemas, componentes o procesos web para satisfacer necesidades dentro de restricciones realistas: económicas, medio ambientales, sociales, políticas, éticas, de salud, de seguridad, manufacturación y/o sostenibilidad.
 - M. Construye responsablemente soluciones web siguiendo un proceso adecuado llevando a cabo las pruebas ajustadas a los recursos disponibles del cliente.
 - P. Aplica de forma flexible técnicas, métodos, principios, normas, estándares y herramientas de ingeniería necesarias para la construcción de aplicaciones web.
 
-## Sumilla
-Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué hacen los clientes y servidores WEB, ¿cómo se comunican? Vista rápida al HTML. Detalle del protocolo HTTP. Detalle de las comunicaciones GET, POST, etc. Detalle de los URL. Servidores Web, páginas web estáticas y CGIs. CGIs en lenguajes orientados a objetos, incrustando código de lenguajes de programación en HTML; CSS. Arquitectura de las Aplicaciones WEB: ¿Qué es un contenedor y que proporciona? CGIs orientados a objetos en detalle, un ejemplo de aplicación usando tecnologías orientadas a objetos y que introduzca patrón MVC y variantes. Creando los ambientes de desarrollo con herramientas automáticas que permitan automatizar las tareas de instalación, despliegue, configuración de software, pruebas, etc. Sistemas de control de versiones. Conectando aplicaciones WEB con Bases de datos bajo un patrón modelo vista controlador. Formularios y verificación de campos; inyección de código; cookies, sesiones; seguridad WEB. Programando el cliente: Bibliotecas de programación para animaciones del lado del cliente y frameworks para webs dinámicas. 
+</details>
+
+<details>
+<summary>Sumilla</summary>
+
+Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué hacen los clientes y servidores WEB, ¿cómo se comunican? Vista rápida al HTML. Detalle del protocolo HTTP. Detalle de las comunicaciones GET, POST, etc. Detalle de los URL. Servidores Web, páginas web estáticas y CGIs. CGIs en lenguajes orientados a objetos, incrustando código de lenguajes de programación en HTML; CSS. Arquitectura de las Aplicaciones WEB: ¿Qué es un contenedor y que proporciona? CGIs orientados a objetos en detalle, un ejemplo de aplicación usando tecnologías orientadas a objetos y que introduzca patrón MVC y variantes. Creando los ambientes de desarrollo con herramientas automáticas que permitan automatizar las tareas de instalación, despliegue, configuración de software, pruebas, etc. Sistemas de control de versiones. Conectando aplicaciones WEB con Bases de datos bajo un patrón modelo vista controlador. Formularios y verificación de campos; inyección de código; cookies, sesiones; seguridad WEB. Programando el cliente: Bibliotecas de programación para animaciones del lado del cliente y frameworks para webs dinámicas.
+
+</details>
 
 ## Temas
 
-### INTRODUCCIÓN
+<details>
+<summary>INTRODUCCIÓN</summary>
+
 - [Generalidades del protocolo HTTP][HTTP]
 - [Visión General Cliente-Servidor][C/S]
 - [¿Qué es una URL?][URL]
@@ -40,6 +48,7 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 - [¿Cómo se utiliza Github pages?][GITHUB]
 - [AJAX][AJAX]
 - [Seguridad de Sitios Web][SEGURIDAD]
+</details>
 
 ### PYTHON
 
