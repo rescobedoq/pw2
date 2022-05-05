@@ -52,7 +52,7 @@
 </tdbody>
 </table>
 
-# Vim - Git - GitHub
+# JavaScript
 
 [![License][license]][license-file]
 [![Downloads][downloads]][releases]
