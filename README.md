@@ -71,7 +71,10 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 #
     
 ## Laboratorios
-- [Laboratorio 01: Git - GitHub.](https://github.com/rescobedoq/pw2/tree/main/labs/lab01)
+- [Laboratorio 01: Vim - Git - GitHub](https://github.com/rescobedoq/pw2/tree/main/labs/lab01)
+- [Laboratorio 02: JavaScript](https://github.com/rescobedoq/pw2/tree/main/labs/lab02)
+- [Laboratorio 03: NodeJS - Express - AJAX](https://github.com/rescobedoq/pw2/tree/main/labs/lab03)
+
 
 #
 
