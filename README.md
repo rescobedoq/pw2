@@ -57,6 +57,19 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 </details>
 
 <details>
+<summary>JavaScript BackEnd</summary>
+
+- [Introducción a Node.js][NODE-INTRO-W3C]
+- [Introducción a Node.js][NODE-INTRO-DEV]
+- [Node.js v12.22.12 Documentación][NODE-12-DOC]
+- [Express Infraestructura web rápida, minimalista y flexible para Node.js][EXPRESSJS]
+- [Introducción a Express/Node][EXPRESS-NODE]
+- [JavaScript Fetch API][FETCH-API]
+- [Uso de Fetch][FETCH-USO]
+
+</details>
+
+<details>
 <summary>Python</summary>
 </details>
 
@@ -101,6 +114,14 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 [GITHUB]: https://developer.mozilla.org/es/docs/Learn/Common_questions/Using_Github_pages
 [AJAX]: https://developer.mozilla.org/es/docs/Web/Guide/AJAX
 [SEGURIDAD]: https://developer.mozilla.org/es/docs/Learn/Server-side/First_steps/Website_security
+
+[NODE-INTRO-W3C]: https://www.w3schools.com/nodejs/nodejs_intro.asp
+[NODE-INTRO-dev]: https://nodejs.dev/learn
+[NODE-12-DOC]: https://nodejs.org/docs/latest-v12.x/api/
+[EXPRESSJS]: https://expressjs.com/es/
+[EXPRESS-NODE]: https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction
+[FETCH-API]: https://www.w3schools.com/js/js_api_fetch.asp
+[FETCH-USO]: https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch
 
 [UNSA]: https://www.unsa.edu.pe/
 [EPIS]: https://fips.unsa.edu.pe/ingenieriadesistemas/
