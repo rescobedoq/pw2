@@ -71,6 +71,16 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 
 <details>
 <summary>Python</summary>
+
+-   [Python Tutorial for w3schools][PYTHON-W3SCHOOLS]
+-   [Project Python Site][PYTHON-SITE]
+-   [Learn Python Programming][PYTHON-LEARN]
+-   [Python Programming Language][PYTHON-GEEKS]
+-   [Official The Python Tutorial][PYTHON-TUTORIAL-01]
+-   [Python Tutorial][PYTHON-TUTORIAL-02]
+-   [Programación Orientada a Objetos - El libro de python][PYTHON-POO-01]
+-   [Programación orientada a objetos - CONVANTEC][PYTHON-POO-02]
+-   [Programación orientada a objetos (POO) en Python][PYTHON-POO-03]
 </details>
 
 <details>
@@ -87,6 +97,7 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 - [Laboratorio 01: Vim - Git - GitHub](https://github.com/rescobedoq/pw2/tree/main/labs/lab01)
 - [Laboratorio 02: JavaScript](https://github.com/rescobedoq/pw2/tree/main/labs/lab02)
 - [Laboratorio 03: NodeJS - Express - AJAX](https://github.com/rescobedoq/pw2/tree/main/labs/lab03)
+- [Laboratorio 04: Python](https://github.com/rescobedoq/pw2/tree/main/labs/lab04)
 
 
 #
@@ -122,6 +133,18 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 [EXPRESS-NODE]: https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction
 [FETCH-API]: https://www.w3schools.com/js/js_api_fetch.asp
 [FETCH-USO]: https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch
+
+[PYTHON-W3SCHOOLS]: https://www.w3schools.com/python/
+[PYTHON-SITE]: https://www.python.org/
+[PYTHON-LEARN]: https://pythonbasics.org/
+[PYTHON-GEEKS]: https://www.geeksforgeeks.org/python-programming-language/
+[PYTHON-TUTORIAL-01]: https://docs.python.org/3/tutorial/
+[PYTHON-TUTORIAL-02]: https://www.pythontutorial.net/
+[PYTHON-POO-01]: https://ellibrodepython.com/programacion-orientada-a-objetos-python
+[PYTHON-POO-02]: https://entrenamiento-python-basico.readthedocs.io/es/latest/leccion9/poo.html
+[PYTHON-POO-03]: https://j2logo.com/python/tutorial/programacion-orientada-a-objetos/
+
+
 
 [UNSA]: https://www.unsa.edu.pe/
 [EPIS]: https://fips.unsa.edu.pe/ingenieriadesistemas/
