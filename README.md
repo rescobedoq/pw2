@@ -85,6 +85,16 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 
 <details>
 <summary>Django</summary>
+        <li><a href="https://www.w3schools.com/python/python_reference.asp">Python Reference</a></li>
+        <li><a href="https://docs.python.org/3/tutorial/">Tutorial</a></li>
+        <li><a href="https://developer.mozilla.org/es/docs/Learn/Server-side/Django/Models">Django Models</a></li>
+        <li><a href="https://tutorial.djangogirls.org/es/django_models/">django_models</a></li>
+        <li><a href="https://pear.php.net/manual/en/standards.php">Coding Standars</a></li>
+        <li><a href="https://docs.djangoproject.com/en/4.0/">Python Reference 4.0</a></li>
+        <li><a href="https://www.youtube.com/watch?v=M4NIs4BM1dk">Python in virtualenv</a></li>
+        <li><a href="https://pypi.org/">Pypi</a></li>
+        <li><a href="https://pip.pypa.io/en/latest/user_guide/">Pip guide</a></li>
+        <li><a href="https://packaging.python.org/en/latest/tutorials/installing-packages/">Packages Python</a></li>
 </details>
 
 <details>
@@ -98,6 +108,7 @@ Desarrollo de aplicaciones WEB usando tecnologías orientadas a objetos: Qué ha
 - [Laboratorio 02: JavaScript](https://github.com/rescobedoq/pw2/tree/main/labs/lab02)
 - [Laboratorio 03: NodeJS - Express - AJAX](https://github.com/rescobedoq/pw2/tree/main/labs/lab03)
 - [Laboratorio 04: Python](https://github.com/rescobedoq/pw2/tree/main/labs/lab04)
+- [Laboratorio 05: Django](https://github.com/rescobedoq/pw2/tree/main/labs/lab04)
 
 
 #
