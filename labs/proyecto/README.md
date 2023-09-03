@@ -39,8 +39,8 @@
         <td>SEMESTRE:</td><td>III</td>
     </tr>
     <tr>
-        <td>FECHA INICIO:</td><td>30-May-2022</td><td>FECHA FIN:</td>
-        <td>03-Jun-2022</td><td>DURACIÓN:</td><td>04 horas</td>
+        <td>FECHA INICIO:</td><td>31-Jul-2023</td><td>FECHA FIN:</td>
+        <td>06-Ago-2023</td><td>DURACIÓN:</td><td>04 horas</td>
     </tr>
     <tr>
         <td colspan="3">DOCENTES:
